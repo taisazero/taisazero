@@ -23,6 +23,9 @@ My industry work spans from building production GenAI platforms for the U.S. Air
 
 ## 🛠️ Technologies & Tools
 
+<details>
+<summary><b>Click to expand my tech stack</b></summary>
+
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -77,6 +80,8 @@ My industry work spans from building production GenAI platforms for the U.S. Air
 ![Seaborn](https://img.shields.io/badge/-Seaborn-9C8EBF?style=flat-square&logoColor=white)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
 
+</details>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -98,8 +103,7 @@ My industry work spans from building production GenAI platforms for the U.S. Air
 - 🌟 **Impact:** Brought accessible code generation to developers worldwide
 
 ### [Socratic Debugging Benchmark](https://github.com/taisazero/socratic-debugging-benchmark)
-A benchmark for evaluating AI systems on their ability to engage in Socratic dialogue for debugging.
-- 🔧 **Tech Stack:** Python, NLP, Educational AI
+A benchmark for evaluating AI systems on their ability to engage in Socratic dialogue for debugging Python code.
 - 📚 **Research:** Part of my dissertation work on Computational Socratic Dialogue
 
 
@@ -134,7 +138,8 @@ I'm always excited to collaborate on:
 - 🛠️ Building production-grade AI applications
 - 💬 Dialogue systems and conversational AI
 - 🔍 AI agent evaluation frameworks
-- Reach me at erfan.hossami at gmail dot com!
+- 📧 Reach me at erfan.hossami at gmail dot com!
+
 ---
 
 <div align="center">
