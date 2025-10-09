@@ -6,7 +6,7 @@
   
   **PhD Candidate in Computer Science @ UNC Charlotte | AI Researcher | Data Scientist**
   
-  *Specializing in Computational Socratic Dialogue & Agentic AI*
+  *Specializing in NLP, LLMs, and Education*
   
 </div>
 
