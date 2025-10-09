@@ -18,8 +18,8 @@ My industry work spans from building production GenAI platforms for the U.S. Air
 
 - 🔭 Currently working on: **Agentic AI systems** and **automatic evaluation environments for AI Agents**
 - 🎯 Recent achievement: Core developer of **[NIPRGPT](https://niprgpt.mil/)**, the U.S. Air Force's official GenAI platform.
-- 🧪 Past experience: Research Scientist at **StabilityAI**, core contributor to **StableLM** family.
-- ⚡ Fun fact: Our open source project at CodedotAI **gpt-code-clippy went viral!** 🚀
+- 🧪 Past experience: Research Scientist at **StabilityAI**, and a contributor to **[StableLM-Alpha](https://stability.ai/news/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)** family.
+- ⚡ Fun fact: Our open source project at CodedotAI **[gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) went viral!** 🚀
 
 ## 🛠️ Technologies & Tools
 
@@ -84,28 +84,13 @@ My industry work spans from building production GenAI platforms for the U.S. Air
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-  
-  ![taisazero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taisazero&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taisazero&layout=compact&theme=dracula&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taisazero&theme=dracula&hide_border=true)
+  <!-- <img height="160em" src="https://github-readme-stats-five-delta-36.vercel.app/api?username=taisazero&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/> -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisazero&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=taisazero&theme=dracula&hide_border=true"/>
   
 </div>
-
-## 🏆 Featured Projects
-
-### [GPT-Code-Clippy 🔥](https://github.com/CodedotAl/gpt-code-clippy)
-**This project went viral!** An open-source code completion model inspired by GitHub Copilot.
-- 🔧 **Tech Stack:** Python, Transformers, PyTorch, Deep Learning
-- ⭐ **Highlights:** Community-driven effort to democratize AI-powered code completion back before it was cool.
-- 🌟 **Impact:** Brought accessible code generation to developers worldwide
-
-### [Socratic Debugging Benchmark](https://github.com/taisazero/socratic-debugging-benchmark)
-A benchmark for evaluating AI systems on their ability to engage in Socratic dialogue for debugging Python code.
-- 📚 **Research:** Part of my dissertation work on Computational Socratic Dialogue
-
 
 ## 📚 Research & Publications
 
@@ -119,15 +104,6 @@ A benchmark for evaluating AI systems on their ability to engage in Socratic dia
   
 </div>
 
-## 🤝 Connect with Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-hossami)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfan.hossami@gmail.com)
-  
-</div>
-
 
 ## 💡 Open to Collaboration
 
@@ -137,6 +113,16 @@ I'm always excited to collaborate on:
 - 🛠️ Building production-grade AI applications
 - 💬 Dialogue systems and conversational AI
 - 🔍 AI agent evaluation frameworks
+
+
+## 🤝 Connect with Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-hossami)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfan.hossami@gmail.com)
+  
+</div>
 
 ---
 
