@@ -88,7 +88,7 @@ My industry work spans from building production GenAI platforms for the U.S. Air
 <div align="center">
   <!-- <img height="160em" src="https://github-readme-stats-five-delta-36.vercel.app/api?username=taisazero&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/> -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisazero&layout=compact&theme=dracula&hide_border=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=taisazero&theme=dracula&hide_border=true"/>
+  <!-- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=taisazero&theme=dracula&hide_border=true"/> -->
   
 </div>
 
