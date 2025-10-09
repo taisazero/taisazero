@@ -19,7 +19,7 @@ My industry work spans from building production GenAI platforms for the U.S. Air
 - 🔭 Currently working on: **Agentic AI systems** and **automatic evaluation environments for AI Agents**
 - 🎯 Recent achievement: Core developer of **[NIPRGPT](https://niprgpt.mil/)**, the U.S. Air Force's official GenAI platform.
 - 🧪 Past experience: Research Scientist at **StabilityAI**, and a contributor to **[StableLM-Alpha](https://stability.ai/news/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)** family.
-- ⚡ Fun fact: Our open source project at CodedotAI **[gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) went viral!** 🚀
+- ⚡ Fun fact: Our open source project at [CodedotAI](https://github.com/CodedotAl) **[gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) went viral!** 🚀
 
 ## 🛠️ Technologies & Tools
 
