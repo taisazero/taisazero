@@ -124,7 +124,6 @@ A benchmark for evaluating AI systems on their ability to engage in Socratic dia
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-hossami)
-  [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=NymC_HsAAAAJ&hl=en&oi=ao)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfan.hossami@gmail.com)
   
 </div>
@@ -138,7 +137,6 @@ I'm always excited to collaborate on:
 - 🛠️ Building production-grade AI applications
 - 💬 Dialogue systems and conversational AI
 - 🔍 AI agent evaluation frameworks
-- 📧 Reach me at erfan.hossami at gmail dot com!
 
 ---
 
