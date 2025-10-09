@@ -17,10 +17,8 @@ I'm an AI researcher and data scientist passionate about computational dialogue 
 My industry work spans from building production GenAI platforms for the U.S. Air Force to contributing to open-source LLMs at StabilityAI. I believe in advancing AI that co-thinks with humans and enhances, not replaces, human thought.
 
 - 🔭 Currently working on: **Agentic AI systems** and **automatic evaluation environments for AI Agents**
-- 🎯 Recent achievement: Core developer of **[NIPRGPT](https://niprgpt.mil/)** – the U.S. Air Force's official GenAI platform.
+- 🎯 Recent achievement: Core developer of **[NIPRGPT](https://niprgpt.mil/)**, the U.S. Air Force's official GenAI platform.
 - 🧪 Past experience: Research Scientist at **StabilityAI**, core contributor to **StableLM** family.
-- 💬 Ask me about: **NLP/ML**, **Education Research**, **LLMs**, **Building AI Applications**, **Socratic Dialogue Systems**
-- 📫 Reach me: **erfan.hossami at gmail dot com**
 - ⚡ Fun fact: Our open source project at CodedotAI **gpt-code-clippy went viral!** 🚀
 
 ## 🛠️ Technologies & Tools
@@ -104,16 +102,6 @@ A benchmark for evaluating AI systems on their ability to engage in Socratic dia
 - 🔧 **Tech Stack:** Python, NLP, Educational AI
 - 📚 **Research:** Part of my dissertation work on Computational Socratic Dialogue
 
-## 💼 Professional Highlights
-
-### 🪖 Air Force Research Laboratory - Core AI Engineer (NIPRGPT)
-- Built **NIPRGPT**: The U.S. Air Force's official GenAI platform.
-- Implemented RAG agent with tool use for document analysis and Q&A
-- Featured in [official Air Force news](https://www.af.mil/News/Article-Display/Article/3800809/) as a key modernization initiative
-
-### 🎨 StabilityAI - Research Scientist
-- Core contributor to pre-training the [StableLM family](https://stability.ai/news/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
-- Processed 30TB+ of text data using PySpark, Apache Beam, and Ray
 
 ## 📚 Research & Publications
 
@@ -137,12 +125,6 @@ A benchmark for evaluating AI systems on their ability to engage in Socratic dia
   
 </div>
 
-## 🎯 Current Focus
-
-- 🤖 Building **automatic evaluation environments for AI Agents**
-- 🔬 Exploring **Agentic AI** architectures and capabilities
-- 📝 Completing my dissertation on **Computational Socratic Dialogue**
-- 🌱 Contributing to open-source AI/ML projects
 
 ## 💡 Open to Collaboration
 
@@ -152,7 +134,7 @@ I'm always excited to collaborate on:
 - 🛠️ Building production-grade AI applications
 - 💬 Dialogue systems and conversational AI
 - 🔍 AI agent evaluation frameworks
-
+- Reach me at erfan.hossami at gmail dot com!
 ---
 
 <div align="center">
