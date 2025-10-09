@@ -127,9 +127,7 @@ I'm always excited to collaborate on:
 ---
 
 <div align="center">
-  
-  ### ⭐ If you find my work interesting, consider starring some repositories!
-  
+    
   *"The unexamined code is not worth running." - Socrates, if he were alive today* 😄
   
 </div>
