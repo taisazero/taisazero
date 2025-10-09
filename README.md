@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm an AI researcher and data scientist passionate about computational dialogue systems and creating AI that helps humans think more effectively and learn more efficiently. My dissertation is on **Computational Socratic Dialogue** 🎓!
+I'm passionate about computational dialogue systems and creating AI that helps humans think more effectively and learn more efficiently. My dissertation is on **Computational Socratic Dialogue** 🎓!
 
 My industry work spans from building production GenAI platforms for the U.S. Air Force to contributing to open-source LLMs at StabilityAI. I believe in advancing AI that co-thinks with humans and enhances, not replaces, human thought.
 
