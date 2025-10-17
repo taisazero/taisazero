@@ -98,7 +98,7 @@ My industry work spans from building production GenAI platforms for the U.S. Air
   
   [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=NymC_HsAAAAJ&hl=en&oi=ao)
   
-  *PhD in Computer Science - UNC Charlotte*
+  *PhD Candidate in Computer Science - UNC Charlotte*
   
   **Dissertation Topic:** Computational Socratic Dialogue
   
