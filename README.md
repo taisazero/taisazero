@@ -4,7 +4,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=taisazero&color=blueviolet&style=flat-square)
   
-  **PhD Candidate in Computer Science @ UNC Charlotte | AI Researcher**
+  **PhD Candidate in Computer Science @ UNC Charlotte**
   
   *Specializing in NLP, LLMs, and Education*
   
